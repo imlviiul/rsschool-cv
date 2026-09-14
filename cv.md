@@ -14,7 +14,7 @@
 
 ## About Me
 
-Getting back into frontend development after a break - the interest never went away. I've also explored illustration and UX/UI design on my own. I enjoy learning new things, and RS School is my next step toward real skills.
+I'm returning to frontend development, and RS School is my chance to turn a long-standing interest into a real skill. I've also explored illustration and UX/UI design on my own.
 
 ---
 
@@ -40,7 +40,7 @@ function multiply(a, b) {
 
 Sedona - Landing Page (HTML Academy)
 
-_2022-2023_
+_2022_
 
 - Skills used: HTML, CSS
 - Source code: [GitHub](https://github.com/imlviiul/1944279-sedona-33)
@@ -63,7 +63,7 @@ _2026_
 
 - Free self-study courses, in progress
 
-RS School - Score Full-Stack JavaScript 2026 Q3
+RS School - Full-Stack JavaScript 2026 Q3
 
 _from September 2026_
 
